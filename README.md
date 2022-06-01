@@ -2,7 +2,7 @@
 # Desafio de Projeto sobre Git/Github da DIO
  
 Repositório criado para o desafio de projeto, incluir todas as atividades da [Digital Innovation One - DIO](https://web.digitalinnovation.one/home)!
-## **..................................................................................................................**
+
 ## :key: Algumas Coisas Importantes
 1. Comandos importantes do *Prompt de Comando* (também utilizado no Git):
    1. **cls(win), clear(git, linux)** - para apagar todo o histórico de comandos do prompt;

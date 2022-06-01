@@ -6,9 +6,9 @@ Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO]
 
 ## :key: Informações úteis:
 ### 1. Comandos importantes do *Prompt de Comando* (também utilizado no Git):
-   1. **cls(win), clear(git, linux)** - para apagar todo o histórico de comandos do prompt;
-   1. **cd(win, git, linux)** - para se transitar entre as pastas dos diretórios, também há a variante "cd .." para retornar à pasta anterior;
-   1. **dir(win), ls(git, linux)** - para mostrar a lista de diretórios contidos na pasta em que estiver, também há a variante **dir -a(win), ls -a(git, linux)** para mostrar inclusive os diretórios ocultos ;
+   * **cls(win), clear(git, linux)** - para apagar todo o histórico de comandos do prompt;
+   * **cd(win, git, linux)** - para se transitar entre as pastas dos diretórios, também há a variante "cd .." para retornar à pasta anterior;
+   * **dir(win), ls(git, linux)** - para mostrar a lista de diretórios contidos na pasta em que estiver, também há a variante **dir -a(win), ls -a(git, linux)** para mostrar inclusive os diretórios ocultos ;
    1. **mkdir(win, git, linux)** - para criar uma pasta no diretório;
    1. **echo(win, git, linux)** - retorna o que for inserido, entretanto se utilizado como **"echo > nome.extensão"**, ele cria o arquivo na extensão desejada, ótimo para criar um readme bem rápido sem sair do git em?! :happy:
    1. **start(win, git, linux)** - inicia um arquivo executável de qualquer tipo;

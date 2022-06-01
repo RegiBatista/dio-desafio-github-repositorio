@@ -35,7 +35,6 @@ Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO]
    * **Typora** - [clique aqui para baixar o Typora](https://typora.io);
    * Lista completa de [**emoticons**](https://gist.github.com/rxaviers/7360908):skull::smiley::collision:;
 
-####    .. :point_right:  Obrigado por sua visita! (Thank you for your visit!) :sunglasses:
+##    .. :point_right:  Obrigado por sua visita! (Thank you for your visit!) :sunglasses:
 
-![](hts://user-images.githubusercontent.com/89160333/171450064-d2c1bcf6-431f-4b19-b7c3-714f9139f1cf.png)
-![](https://user-images.githubusercontent.com/89160333/171453676-ed286a06-dc61-4ba7-b07f-a6f8660f0fd7.png)
+

@@ -35,4 +35,4 @@ Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO]
    * **Typora** - [clique aqui para baixar o Typora](https://typora.io);
    * Lista completa de [**emoticons**](https://gist.github.com/rxaviers/7360908):skull::smiley::collision:;
 
-###   > Obrigado por sua visita! (( Thank you for your visit! )) :sunglasses:
+###    > Obrigado por sua visita! (Thank you for your visit!) :sunglasses:

@@ -37,8 +37,4 @@ Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO]
 
 ####    .. :point_right:  Obrigado por sua visita! (Thank you for your visit!) :sunglasses:
 
-
 ![](https://user-images.githubusercontent.com/89160333/171450064-d2c1bcf6-431f-4b19-b7c3-714f9139f1cf.png)
-
-<img src="https://user-images.githubusercontent.com/89160333/171450064-d2c1bcf6-431f-4b19-b7c3-714f9139f1cf.png)">
-

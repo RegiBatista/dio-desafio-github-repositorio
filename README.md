@@ -38,6 +38,6 @@ Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO]
 
        
 
-###     :point_right:  Obrigado por sua visita! (Thank you for your visit!) :sunglasses:
+###     :point_right:   Obrigado por sua visita! (Thank you for your visit!) :sunglasses:
 
 

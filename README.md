@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/89160333/171444686-5a45b637-1aa4-479c-bac6-821a5f22f6fe.jpg)
 
-# Desafio de Projeto sobre Git/Github da DIO       
+# Desafio de Projeto sobre Git/Github da DIO        
  
 Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO](https://web.digitalinnovation.one/home)!
 

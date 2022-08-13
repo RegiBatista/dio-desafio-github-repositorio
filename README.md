@@ -4,7 +4,7 @@
  
 Repositório criado para o desafio de projeto, da [Digital Innovation One - DIO](https://web.digitalinnovation.one/home)!
 
-## :key: Informações úteis:
+## :key: Informações úteis: 
 #### 1. Comandos importantes do *Prompt de Comando* (também utilizado no Git):
    * **cls(win), clear(git, linux)** - para apagar todo o histórico de comandos do prompt;
    * **cd(win, git, linux)** - para se transitar entre as pastas dos diretórios, também há a variante "cd .." para retornar à pasta anterior;
